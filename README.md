@@ -1,6 +1,4 @@
----
-
-# 📄 AI Document Intelligence System
+## 📄 AI Document Intelligence System
 
 ## 🚀 Overview
 
