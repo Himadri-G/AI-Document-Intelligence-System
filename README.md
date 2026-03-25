@@ -1,4 +1,4 @@
-## 📄 AI Document Intelligence System
+#### 📄 AI Document Intelligence System
 
 # 🚀 Overview
 
@@ -216,17 +216,6 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 📌 Resume Description
-
-**AI Document Intelligence System**
-
-* Built an end-to-end AI system to extract structured information from PDFs and images using OCR and NLP
-* Implemented transformer-based models for Named Entity Recognition and document understanding
-* Developed a semantic matching engine for resume-job alignment
-* Designed scalable APIs using FastAPI and deployed on AWS
-* Integrated MLflow and DVC for experiment tracking and pipeline management
-
----
 
 ## 🤝 Contributing
 
