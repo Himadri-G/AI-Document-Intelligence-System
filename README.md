@@ -1,5 +1,3 @@
-Here’s a **professional GitHub README.md** for your project — clean, structured, and recruiter-friendly 👇
-
 ---
 
 # 📄 AI Document Intelligence System
@@ -244,9 +242,3 @@ This project is licensed under the MIT License.
 
 ---
 
-If you want next step, I can:
-✅ Customize this README for your GitHub username
-✅ Add badges (stars, build, license)
-✅ Generate **complete starter code (FastAPI + structure)**
-
-Just tell me 👍
