@@ -1,6 +1,6 @@
 ## 📄 AI Document Intelligence System
 
-## 🚀 Overview
+# 🚀 Overview
 
 The **AI Document Intelligence System** is an end-to-end machine learning application designed to extract, analyze, and understand structured information from unstructured documents such as PDFs and images.
 
@@ -8,7 +8,7 @@ This system combines **OCR, NLP, and Transformer models** to automate document p
 
 ---
 
-## 🎯 Key Features
+# 🎯 Key Features
 
 * 📄 **Document Upload**
 
